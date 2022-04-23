@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marlon Batista 👋
 
-- 🔭 Hoje eu trabalho como analista de SOA.
+- 🔭 Hoje eu trabalho como analista de desenvolvimento JR.
 - 🌱 Eu estou estudando Angular, Java e C#.
 - 📫 Contate-me no email: marlon.batista18@hotmail.com
 - 😄 Pronomes: ele/dele
