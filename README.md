@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marlon Batista 👋
 
 - 🔭 Hoje eu trabalho como analista de desenvolvimento JR.
-- 🌱 Eu estou estudando Angular, Java e C#.
+- 🌱 Eu estou estudando Angular, React, C# e GO.
 - 📫 Contate-me no email: marlon.batista18@hotmail.com
 - 😄 Pronomes: ele/dele
 
@@ -20,6 +20,7 @@
   <img align="center" alt="Marlon-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Marlon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marlon-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+  <img align="center" alt="Marlon-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" />
 </div>
  
   ##
