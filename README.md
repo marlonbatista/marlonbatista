@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho como analista de desenvolvimento JR.
 - 🌱 Eu estou estudando Angular, React, C# e GO.
-- 📫 Contate-me no email: marlon.batista18@hotmail.com
+- 📫 Contate-me do linkedin: www.linkedin.com/in/marlonbatista
 - 😄 Pronomes: ele/dele
 
 <div align="center">
