@@ -19,7 +19,6 @@
   <img align="center" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marlon-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Marlon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marlon-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
   <img align="center" alt="Marlon-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" />
 </div>
  
