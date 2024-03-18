@@ -1,9 +1,11 @@
-## Olá! Eu sou o Marlon Batista 👋
+## Hello! I'm Marlon Batista 👋
 
-- 🔭 Hoje eu trabalho como analista de desenvolvimento JR.
-- 🌱 Eu estou estudando Angular, React, C# e GO.
-- 📫 Contate-me: www.linkedin.com/in/marlonbatista
-- 😄 Pronomes: ele/dele
+I'm glad to see you here, see a little more about my work and interests below
+
+- 🔭 Today I work as a Development Analyst.
+- 🌱 I have expertise in Angular, .Net and Azure Data Factory (ADF)
+- 📫 Contact me: www.linkedin.com/in/marlonbatista
+- 😄 Pronouns: him/his
 
 <div align="center">
   <a href="https://github.com/marlonbatista">
