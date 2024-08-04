@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Execute a cada dia às 5:00 UTC
+  schedule: # Executa diariamente às 5:00 UTC
     - cron: "0 5 * * *"
   workflow_dispatch:
 
@@ -11,18 +11,19 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        
+
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: github-contribution-grid-snake.svg
 
-      - name: Push generated snake animation
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          commit_message: "Generated snake animation"
-          directory: github-contribution-grid-snake.svg
+      - name: Commit and push the animation
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation"
+          git push origin HEAD:output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
