@@ -16,7 +16,13 @@ jobs:
         uses: Platane/snk@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: ./github-contribution-grid-snake.svg
+          output: github-contribution-grid-snake.svg
+
+      - name: List files after generation
+        run: ls -la
+
+      - name: Display current directory
+        run: pwd
 
       - name: Commit and push the animation
         run: |
@@ -27,5 +33,3 @@ jobs:
           git push origin HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: List files
-        run: ls -la
