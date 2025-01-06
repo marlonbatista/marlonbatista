@@ -16,7 +16,7 @@ jobs:
 
       # Geração da Animação Snake
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: marlonbatista
