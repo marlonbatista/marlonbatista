@@ -33,7 +33,8 @@ I'm glad to see you here, see a little more about my work and interests below
 
   ![Snake animation](https://github.com/marlonbatista/marlonbatista/blob/output/github-contribution-grid-snake.svg)
   ![Snake animation](https://marlonbatista.github.io/marlonbatista/github-contribution-grid-snake.svg)
-
+  
+![snake gif](https://github.com/marlonbatista/marlonbatista/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
